@@ -1,2 +1,2 @@
 # mumbles
-Personal wiki with Tiddlywiki
+Personal meaningless mumbles with Tiddlywiki
